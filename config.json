@@ -1,0 +1,7 @@
+{
+  "data_file": "data/tasks.json",
+  "default_status": "pending",
+  "date_format": "YYYY-MM-DD",
+  "auto_backup": false,
+  "backup_directory": "data/backups"
+}
